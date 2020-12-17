@@ -1,0 +1,25 @@
+{
+  "name": "bot_googlemaps",
+  "version": "1.0.0",
+  "description": "Bot de pesquisa para o googlemaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suportepedropachecodev/bot_googlemaps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suportepedropachecodev/bot_googlemaps/issues"
+  },
+  "homepage": "https://github.com/suportepedropachecodev/bot_googlemaps#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fast-csv": "^4.3.6",
+    "puppeteer": "^5.5.0"
+  }
+}
